@@ -8,4 +8,4 @@ My code can be found in the dictionart.c file, specifically the load, check, siz
 Usage:
 ./speller [dictionary] text
 
-If no dictionary argument is provided, a standard English dictionary is used.
+If no dictionary argument is provided, a default English dictionary is used. This can be found in dictionaries/large.
